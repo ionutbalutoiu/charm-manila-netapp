@@ -1,3 +1,7 @@
+# DEPRECATED
+
+The charm repo was moved to: https://opendev.org/openstack/charm-manila-netapp
+
 # Manila NetApp Backend Source Charm
 
 ## Overview
